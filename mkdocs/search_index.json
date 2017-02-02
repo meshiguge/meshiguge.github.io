@@ -2,18 +2,23 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\nCupcake indexer is a snazzy new project for indexing small cakes.\n\n\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nPlease see the \nsfasdft license\n for further details.\nPlease see the (license.md) for further details.\n\n\n\n\n\n\n\n\nFirst Header\n\n\nSecond Header\n\n\nThird Header\n\n\n\n\n\n\n\n\n\n\nContent Cell\n\n\nContent Cell\n\n\nContent Cell\n\n\n\n\n\n\nContent Cell\n\n\nContent Cell\n\n\nContent Cell\n\n\n\n\n\n\n\n\nFenced code blocks are like Stardard\nMarkdown regular code blocks, except that\ntheye not indented and instead rely on a\nstart and end fence lines to delimit the code\nblock.\n\n\n\n\ncode\n\n\nprint \"hello workd\"\nFenced code blocks are like Stardard\nMarkdown regular code blocks, except that\ntheye not indented and instead rely on a\nstart and end fence lines to delimit the code\nblock.\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
             "title": "Home"
         }, 
         {
             "location": "/#welcome-to-mkdocs", 
-            "text": "For full documentation visit  mkdocs.org .", 
+            "text": "For full documentation visit  mkdocs.org .\nCupcake indexer is a snazzy new project for indexing small cakes.", 
             "title": "Welcome to MkDocs"
         }, 
         {
             "location": "/#commands", 
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.   Please see the  sfasdft license  for further details.\nPlease see the (license.md) for further details.     First Header  Second Header  Third Header      Content Cell  Content Cell  Content Cell    Content Cell  Content Cell  Content Cell     Fenced code blocks are like Stardard\nMarkdown regular code blocks, except that\ntheye not indented and instead rely on a\nstart and end fence lines to delimit the code\nblock.", 
             "title": "Commands"
+        }, 
+        {
+            "location": "/#code", 
+            "text": "print \"hello workd\"\nFenced code blocks are like Stardard\nMarkdown regular code blocks, except that\ntheye not indented and instead rely on a\nstart and end fence lines to delimit the code\nblock.", 
+            "title": "code"
         }, 
         {
             "location": "/#project-layout", 
@@ -21,9 +26,54 @@
             "title": "Project layout"
         }, 
         {
-            "location": "/about/", 
-            "text": "301 Moved Permanently\n\n\n\n\n301 Moved Permanently\n\n\nnginx/1.6.2", 
-            "title": "About"
+            "location": "/user-guide/start/", 
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\nPlease see the \nuser license\n for further details.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "start user  "
+        }, 
+        {
+            "location": "/user-guide/start/#welcome-to-mkdocs", 
+            "text": "For full documentation visit  mkdocs.org .", 
+            "title": "Welcome to MkDocs"
+        }, 
+        {
+            "location": "/user-guide/start/#commands", 
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.\nPlease see the  user license  for further details.", 
+            "title": "Commands"
+        }, 
+        {
+            "location": "/user-guide/start/#project-layout", 
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Project layout"
+        }, 
+        {
+            "location": "/user-guide/config/", 
+            "text": "Config\n\n\nfor full config  full documentation visit \nmkdocs.org\n.\nCupcake indexer is a snazzy new project for indexing small cakes.\n\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "config setting "
+        }, 
+        {
+            "location": "/user-guide/config/#config", 
+            "text": "for full config  full documentation visit  mkdocs.org .\nCupcake indexer is a snazzy new project for indexing small cakes.", 
+            "title": "Config"
+        }, 
+        {
+            "location": "/user-guide/config/#commands", 
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
+            "title": "Commands"
+        }, 
+        {
+            "location": "/user-guide/config/#project-layout", 
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Project layout"
+        }, 
+        {
+            "location": "/license/", 
+            "text": "Welcome to licence", 
+            "title": "project license"
+        }, 
+        {
+            "location": "/license/#welcome-to-licence", 
+            "text": "", 
+            "title": "Welcome to licence"
         }
     ]
 }

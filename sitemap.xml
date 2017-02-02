@@ -10,8 +10,24 @@
     
 
     
+        
     <url>
-     <loc>/about/</loc>
+     <loc>/user-guide/start/</loc>
+     <lastmod>2017-02-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/user-guide/config/</loc>
+     <lastmod>2017-02-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+    <url>
+     <loc>/license/</loc>
      <lastmod>2017-02-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
